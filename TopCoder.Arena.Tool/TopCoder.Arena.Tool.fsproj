@@ -57,6 +57,8 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Folder.fs" />
+    <Compile Include="Providers.fs" />
+    <Compile Include="Export.fs" />
     <Compile Include="Project.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
